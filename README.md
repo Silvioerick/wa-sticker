@@ -189,6 +189,6 @@ metadata = await Sticker.extractMetadata(sticker)
 ```
 
 ---
-Thanks for using Wa-Sticker-Formatter!
+Esse é um fork de [Wa Sticker](https://github.com/AlenVelocity/wa-sticker-formatter.git) que corrige erros!!
 
 
